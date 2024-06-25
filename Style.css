@@ -3,7 +3,9 @@
 }
 body{
     /* background-color: #0077B6; */
-    background-image: linear-gradient(to bottom right,#0077B6,#87CEEB);
+    background-image: url("sand-beach-baltic-sea-sand-beach.png");
+    background-repeat: repeat;
+    background-size: 100%;
 }
 header{
     background-color: #fb9062;
@@ -42,4 +44,7 @@ p {
 }
 .inner_container{
     /* border: solid grey 2px; */
+}
+.contents{
+    background-image: linear-gradient(to bottom right,#0077B6,#87CEEB);
 }
